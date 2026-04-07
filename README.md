@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagnik150699/Sagnik-Bhattacharya/master/public/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180">
+</p>
+Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
+
 Riverpod Final Project for Flutter Course
 Welcome to the final Riverpod project of the Flutter course by Coding Liquids, focusing on the Riverpod state management solution!
 
