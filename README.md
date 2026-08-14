@@ -1,6 +1,13 @@
 <p align="center">
   <img src="https://wsrv.nl/?url=https%3A%2F%2Fsagnikbhattacharya.com%2Fsagnik-bhattacharya.png&amp;cx=292&amp;cy=64&amp;cw=456&amp;ch=456&amp;mask=circle&amp;output=png" alt="Sagnik Bhattacharya" width="180" height="180">
 </p>
+
+## Course
+
+This project is part of **The Complete Flutter Course: Build Android, iOS, and Web apps**.
+
+[View the course on Coding Liquids](https://www.codingliquids.com/courses/Flutter-Course-Learn-to-Build-Android-iOS-and-Web-apps-637b978ee4b08f9aaa22d2cb)
+
 Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
 
 Riverpod Final Project for Flutter Course
